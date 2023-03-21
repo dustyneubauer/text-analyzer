@@ -1,0 +1,36 @@
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.exe
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.deps.json
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.runtimeconfig.json
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.runtimeconfig.dev.json
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.dll
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\ref\Week6_B.dll
+C:\Users\24861221\Desktop\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.pdb
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.csproj.AssemblyReference.cache
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.TextAnalyzer.resources
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.csproj.GenerateResource.cache
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.AssemblyInfoInputs.cache
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.AssemblyInfo.cs
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.csproj.CoreCompileInputs.cache
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.dll
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\ref\Week6_B.dll
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.pdb
+C:\Users\24861221\Desktop\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.genruntimeconfig.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.exe
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.deps.json
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.runtimeconfig.json
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.runtimeconfig.dev.json
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\ref\Week6_B.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\bin\Debug\net5.0-windows\Week6_B.pdb
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.csproj.AssemblyReference.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.TextAnalyzer.resources
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.csproj.GenerateResource.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.AssemblyInfoInputs.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.AssemblyInfo.cs
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.csproj.CoreCompileInputs.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\ref\Week6_B.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.pdb
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week 6\Week6_B\Week6_B\obj\Debug\net5.0-windows\Week6_B.genruntimeconfig.cache
